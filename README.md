@@ -4,6 +4,8 @@
 
 This README presents the implementation of LSTM combined with the Black-Litterman Model for optimizing investment portfolios. The project originated from a group report in the Financial Technology course at National Chengchi University, based on Davide Vena's paper "Active Index Allocation with the Black-Litterman Model" published in 2018.
 
+For detailed information, please refer to "LSTM combines with Black-Litterman Model to Determine Optimal Investment Portfolio - HackMD.pdf."
+
 ## Research Summary
 
 In this report, we explore the application of the Black-Litterman Model in asset management, particularly in the context of ETFs. Utilizing supervised learning, we converge the investment scope and incorporate various assets to form an investment portfolio. To construct vectors reflecting the perspectives of investors using the Black-Litterman approach, we employ machine learning techniques, such as Long Short-Term Memory (LSTM) in Recurrent Neural Networks (RNN).
