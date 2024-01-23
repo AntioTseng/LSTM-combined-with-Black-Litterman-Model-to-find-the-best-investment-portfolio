@@ -31,6 +31,6 @@ Visualizations depict the LSTM model's predictions for the returns of seven dist
 
 Graphical representation of the efficient frontier curve illustrates the Mean-Variance Optimization process. Each color on the curve corresponds to a different Sharpe Ratio. 
 
-![Mean-Variance Optimization](img/Mean-VarianceOptimization.png)
+![Mean-Variance Optimization](img/Mean-Variance-Optimization.png)
 
 
