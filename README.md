@@ -13,4 +13,18 @@ This README presents the implementation of LSTM combined with the Black-Litterma
 * Compute Posterior Variance - Obtain New Variance Matrix
 * Utilize Mean-Variance Optimization - Calculate Optimal Weights
 
-## 
+## Results
+
+### LSTM Output:
+
+Visualizations depict the LSTM model's predictions for the returns of seven distinct assets over time. These graphs provide insights into the model's performance in capturing market trends.
+
+![LSTM Output](img/LSTM_output.png)
+
+### Mean-Variance Optimization:
+
+Graphical representation of the efficient frontier curve illustrates the Mean-Variance Optimization process. Each color on the curve corresponds to a different Sharpe Ratio. 
+
+![Mean-Variance Optimization](img/Mean-Variance Optimization.png)
+
+
