@@ -14,7 +14,6 @@ Finally, we evaluate the performance of the optimized asset allocation portfolio
 
 ## Research Methodology
 
-* Compute Hidden Equilibrium Returns
 * Calculate Hidden Equilibrium Returns
 * Predict Next Period's Returns - Set Viewpoint Q
 * Combine Viewpoints - Calculate Posterior Expected Returns
